@@ -85,5 +85,5 @@ class olxScrap():
 
 
 classe = olxScrap()
-classe.pesquisar('nintendo ds', 'santos')
+classe.pesquisar(#produto, #filtro)
 classe.pegarDados()
