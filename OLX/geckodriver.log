@@ -1,0 +1,679 @@
+1613604433215	geckodriver	INFO	Listening on 127.0.0.1:50095
+1613604436294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofilessh8JD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613604448494	Marionette	INFO	Listening on port 50103
+1613604450029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613604450079	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.com.br"
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1613604513528	Marionette	INFO	Stopped listening on port 50103
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofileQG5hVf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613604518329	Marionette	INFO	Listening on port 50267
+1613604518437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613604518459	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too lat1613604669724	mozrunner::runner	INFO	Runn1613604670747	Marionette	INFO	Stopped listening on port 50267
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+zprofileRxQSHH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613604675498	Marionette	INFO	Listening on port 50616
+1613604676001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613604676019	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1613604699852	Marionette	INFO	Stopped listening on port 50616
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613605124597	geckodriver	INFO	Listening on 127.0.0.1:50779
+1613605127653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofile6SXwA7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613605133915	Marionette	INFO	Listening on port 50787
+1613605134077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613605134099	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613605178925	Marionette	INFO	Stopped listening on port 50781613605179047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofileUilB8j"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613605184794	Marionette	INFO	Listening on port 51009
+1613605185060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613605185075	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613605260945	Marionette	INFO	Stopped listening on port 51009
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofile5BEwEi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613605266907	Marionette	INFO	Listening on port 51276
+1613605267076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613605267098	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613605389032	Marionette	INFO	Stopped listening on port 51276
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613606501090	geckodriver	INFO	Listening on 127.0.0.1:51589
+1613606504153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofileSa3PD1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613606510540	Marionette	INFO	Listening on port 51597
+1613606511049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613606511069	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613606696935	Marionette	INFO	Stopped listening on port 51597
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofile6roPlK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613606697383	Marionette	INFO	Listening on port 51919
+1613606697725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613606697762	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 4224, IPC I/O Parent] WARNING: file /builds/worker/c1613606761264	mozrunner::runner	INFO	Running command: "C:\\Pro1613606763305	Marionette	INFO	Stopped listening on port 51919
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be losconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613606767385	Marionette	INFO	Listening on port 52170
+1613606767566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613606767585	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1613606983842	geckodriver	INFO	Listening on 127.0.0.1:52406
+1613606986883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofileM4YKo0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613606995349	Marionette	INFO	Listening on port 52414
+1613606995443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613606995466	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613607029050	Marionette	ERROR	[33] No reply from Marionette:Register
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1642: Error: permitUnload is already running for this tab.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0028,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0028,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0028,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x230001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A003A,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A003A,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xBA000E,name=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A004A,name=PContent::Msg_UnregisterJSWindowActor) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A004A,name=PContent::Msg_UnregisterJSWindowActor) Channel error: cannot send/recv
+
+1613607244054	geckodriver	INFO	Listening on 127.0.0.1:52651
+1613607247086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofile1IeBmj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613607253715	Marionette	INFO	Listening on port 52659
+1613607254199	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613607254214	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 3724, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1613607856723	Marionette	INFO	Stopped listening on port 52659
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ly from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Marionette threw an error: TypeError: browsingContextFn() is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:332:29
+
+1613607359182	Marionette	INFO	Stopped listening on port 52889
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613607733475	geckodriver	INFO	Listening on 127.0.0.1:53124
+1613607736516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofileirJDHl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613607743256	Marionette	INFO	Listening on port 53132
+1613607743443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613607743465	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613607852350	geckodriver	INFO	Listening on 127.0.0.1:53368
+1613607855428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofilePZSmou"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613607862175	Marionette	INFO	Listening on port 53377
+1613607862409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613607862433	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+1613607918761	geckodriver	INFO	Listening on 127.0.0.1:53577
+1613607921824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofileYfE5O7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613607927937	Marionette	INFO	Listening on port 53585
+1613607928144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613607928168	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1613607977076	Marionette	INFO	Stopped listening on port 53585
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"", "(unknown module)"))
+1613607972031	Marionette	INFO	Listening on port 53826
+1613607972339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613607972379	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: resource://activity-stream/lib/ASRouter.js1613608021628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofileLXLejj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613608027733	Marionette	INFO	Listening on port 54059
+1613608027919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613608027941	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+1613608105573	geckodriver	INFO	Listening on 127.0.0.1:54271
+1613608108668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofilepqORuO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613608115709	Marionette	INFO	Listening on port 54279
+1613608116051	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613608116068	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613608266581	geckodriver	INFO	Listening on 127.0.0.1:54499
+1613608269707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofileOQffeG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613608275854	Marionette	INFO	Listening on port 54507
+1613608276026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613608276045	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://a.teads.tv/page/76932/tag, line 10: TypeError: w.teads is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613608454562	geckodriver	INFO	Listening on 127.0.0.1:54812
+1613608486460	geckodriver	INFO	Listening on 127.0.0.1:54819
+1613608489532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofileTqk4tU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613608496183	Marionette	INFO	Listening on port 54827
+1613608496447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613608496467	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613608569414	Marionette	INFO	Stopped listening on port 54827
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofilegr8F3A"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613608572304	Marionette	INFO	Listening on port 55064
+1613608572737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613608572757	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613608590150	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+1613608600257	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 764, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1613608657000	Marionette	INFO	Stopped listening on port 55064
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613608657549	geckodriver	INFO	Listening on 127.0.0.1:55348
+1613608660590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofileqN8ZJz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613608666650	Marionette	INFO	Listening on port 55356
+1613608666892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613608666947	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cd/vi/js/adview-v2/1df32754a7a5362304e0.bundle_listingDesk.js, line 93: TypeError: t.totalLoadTime is undefined
+JavaScript error: https://static.olx.com.br/cd/vi/js/adview-v2/1df32754a7a5362304e0.bundle_listingDesk.js, line 93: TypeError: t.totalLoadTime is undefined
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1613608845832	Marionette	INFO	Stopped listening on port 55356
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"", "(unknown module)"))
+1613608839332	Marionette	INFO	Listening on port 55596
+1613608839659	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613608839677	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613608979637	geckodriver	INFO	Listening on 127.0.0.1:55845
+1613608982715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofileUbdHFu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613608988250	Marionette	INFO	Listening on port 55853
+1613608988726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613608988743	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+1613609009093	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://3c568149e83de79c4b2e0d49ee415378.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html line 8 > injectedScript, line 9: ReferenceError: buildAttribution is not defined
+JavaScript error: https://3c568149e83de79c4b2e0d49ee415378.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html line 8 > injectedScript, line 9: ReferenceError: buildAttribution is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613609040156	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1613609040158	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613609121855	geckodriver	INFO	Listening on 127.0.0.1:56124
+1613609124933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofilen4VkES"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613609131523	Marionette	INFO	Listening on port 56132
+1613609131886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613609131906	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613609230813	geckodriver	INFO	Listening on 127.0.0.1:56388
+1613609233906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofilefEfDC2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613609240860	Marionette	INFO	Listening on port 56396
+1613609241313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613609241334	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1613609387723	Marionette	INFO	Stopped listening on port 56396
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"", "(unknown module)"))
+1613609313559	Marionette	INFO	Listening on port 56655
+1613609313651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613609313676	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613609371654	geckodriver	INFO	Listening on 127.0.0.1:56880
+1613609374733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofile12AKa9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613609380459	Marionette	INFO	Listening on port 56888
+1613609380597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613609380620	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://tpc.googlesyndication.com/sodar/Enqz_20U.html, line 11: uncaught exception: 7
+1613609528971	geckodriver	INFO	Listening on 127.0.0.1:57129
+1613609532065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofile1P3rLN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613609538544	Marionette	INFO	Listening on port 57137
+1613609539205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613609539240	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+1613609633984	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+1613609669247	geckodriver	INFO	Listening on 127.0.0.1:57439
+1613609672326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofileEBjnUD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613609677892	Marionette	INFO	Listening on port 57447
+1613609678208	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613609678225	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: https://s0.2mdn.net/9694601/1612213877369/459452_br_cs_co_dir_ba_MPHTML-XPS13-ci7-NA-XPSTeaser_300x600_VAR/459452_300x600.js, line 4: ReferenceError: TimelineMax is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613609865751	geckodriver	INFO	Listening on 127.0.0.1:57697
+1613609868844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofileXb67kZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613609875126	Marionette	INFO	Listening on port 57705
+1613609875436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613609875455	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+1613610286655	geckodriver	INFO	Listening on 127.0.0.1:58029
+1613610289712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofile13nixP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613610295847	Marionette	INFO	Listening on port 58037
+1613610296054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613610296102	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613610370106	geckodriver	INFO	Listening on 127.0.0.1:58253
+1613610373100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofilepGq0bD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613610380824	Marionette	INFO	Listening on port 58261
+1613610381046	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613610381080	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613610454391	geckodriver	INFO	Listening on 127.0.0.1:58488
+1613610457439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofilevnTQW9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613610464028	Marionette	INFO	Listening on port 58496
+1613610464349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613610464371	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613610761323	geckodriver	INFO	Listening on 127.0.0.1:58704
+1613610764353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofilehYsWxS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613610770069	Marionette	INFO	Listening on port 58712
+1613610770167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613610770191	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613610788018	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613610800384	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1613610843696	geckodriver	INFO	Listening on 127.0.0.1:58958
+1613610846806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Carol\\AppData\\Local\\Temp\\rust_mozprofile7W0A3c"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613610852853	Marionette	INFO	Listening on port 58966
+1613610853088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613610853106	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.olx.com.br/, line 140: TypeError: btn is undefined
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.olx.com.br/cookie-notice/cookie-notice.js, line 220: TypeError: bodyTag is undefined
